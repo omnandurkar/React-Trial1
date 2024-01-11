@@ -47,3 +47,10 @@ export default function Navbar(props) {
 Navbar.defaultProps = {
     title :'Set Title Here'
 };
+
+// This is usedto set the type of input the props will take wherther a string num else
+
+// Navbar.propTypes ={
+//     title:  PropTypes.string.isRequired,
+//     title : PropTypes.string
+// }
