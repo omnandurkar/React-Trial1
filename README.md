@@ -6,7 +6,7 @@
 
 syntax is 
 
-```html
+```js
 
 Navbar.propTypes = {
     title : PropTypes.string.isRequired
