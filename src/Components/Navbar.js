@@ -43,3 +43,7 @@ export default function Navbar(props) {
     </div>
   )
 }
+
+Navbar.defaultProps = {
+    title :'Set Title Here'
+};
