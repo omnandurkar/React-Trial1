@@ -6,7 +6,7 @@ import TextForm from './Components/TextForm';
 function App() {
   return (  
     <>
-    <Navbar title="GearUp"/>
+    <Navbar title="TextUp"/>
 
     <div className="container" style={{marginTop:130}}>
     <TextForm TextAreaTitle="Convert Your text into TEXT"/>
